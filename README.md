@@ -12,6 +12,7 @@ Raytraceren ble byggen under kurset DAT253 på HVL Bergen.
 - Egenskaper som antialiasing er også implementert.
 
 ## Skjermbilder av prosjektet
+En glasskule, en diffuse kule og en børstet metallisk kule
 <img width="1214" height="619" alt="Skjermbilde 2025-07-28 205812" src="https://github.com/user-attachments/assets/14da76f6-a151-4542-ac6e-9f86aacbddd7" />
 
 Flyttet kule for å demonstrere refraksjon i glasskule
