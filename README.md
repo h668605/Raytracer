@@ -11,6 +11,10 @@ Raytraceren ble byggen under kurset DAT253 på HVL Bergen.
 - Kulene har forskjellige tre forskjellige materialer. Matt, metallisk og glass. Alle tre realisert ved unike måter lysstrålene blir reflektert på.
 - Egenskaper som antialiasing er også implementert.
 
-<img width="1291" height="656" alt="Skjermbilde 2025-07-28 210200" src="https://github.com/user-attachments/assets/e302f475-6a10-4f5f-a822-3712a44e56c0" />
+## Skjermbilder av prosjektet
 <img width="1214" height="619" alt="Skjermbilde 2025-07-28 205812" src="https://github.com/user-attachments/assets/14da76f6-a151-4542-ac6e-9f86aacbddd7" />
+
+Flyttet kule for å demonstrere refraksjon i glasskule
+<img width="1291" height="656" alt="Skjermbilde 2025-07-28 210200" src="https://github.com/user-attachments/assets/e302f475-6a10-4f5f-a822-3712a44e56c0" />
+
 
