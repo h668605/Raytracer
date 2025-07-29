@@ -1,7 +1,7 @@
 
 Dette prosjektet er en enkel raytracer utviklet fra bunn av i Unity, med HLSL for shader-programmering. Prosjektet følger innholdet og oppbygningen i boka *Ray Tracing in One Weekend* av Peter Shirley (https://raytracing.github.io/books/RayTracingInOneWeekend.html).
 Boken bruker C+ ved utvikling av raytraceren, men denne raytraceren er skrevet i shaderspråket HLSL.
-Raytraceren ble byggen under kurset DAT253 på HVL Bergen.
+Raytraceren ble byggent i sammenheng med kurset DAT253 på HVL Bergen.
 
 
 
